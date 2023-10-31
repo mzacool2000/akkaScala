@@ -1,0 +1,27 @@
+.*
+*.lck
+*.log
+*.epoch
+*.iml
+*.orig
+*.iws
+*.ids
+*.ipr
+*.ser
+*.*~
+!.editorconfig
+!.gitignore
+!.sbtopts
+stacktrace.log
+out
+bin
+target-eclipse
+project/project
+project/target
+target
+
+# IntelliJ code style settings
+!.idea
+.idea/*
+!.idea/codeStyles/codeStyleConfig.xml
+!.idea/codeStyleSettings.xml
