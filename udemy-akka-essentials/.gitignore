@@ -19,6 +19,7 @@ target-eclipse
 project/project
 project/target
 target
+.bsp
 
 # IntelliJ code style settings
 !.idea
